@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>trabalho do Robson</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>   
+    <section id="Negão da 300"
+    tabindex="0"> Trabalho de Programação
+    <h1>  </h1>
+
+    <img src="https://io.convertiez.com.br/m/storeconvertize/shop/products/images/6/medium/programacao-front-end-html-css_26.jpg" alt="Macaco estiloso">
+
+    <h2> Nome do aluno: Robson n:25 - Prof: Daniela</h2>
+
+</body>   
+
+<button
+onclick="mostrarImagem()">Mostrar Imagem</button>
+
+
+    <img id="imagem"
+src="https://mauricioszabo.wordpress.com/wp-content/uploads/2016/02/light-table.gif?w=600&h=278" style="display: none; width: 300px;">
+
+
+   
+
+
+    <script>
+
+
+        function mostrarImagem() {
+
+
+            document.getElementById("imagem").style.display
+= "block";
+
+
+        }
+
+
+    </script>
+
+<h3> div: Uma tag genérica usada para agrupar
+    elementos e estruturar o layout de uma página. Muito útil para organizar o
+    conteúdo.</h3>
+
+   <h4> H1: tag do título principal. <h/4>
+   <h5> H2: tag dos subtítulos. <h/5>
+
+<h6> Laços de repetição: Laços de repetição, ou loops, são estruturas de programação que executam um bloco de código várias vezes. São fundamentais para automatizar tarefas repetitivas e processar grandes volumes de dados. 
+Principais tipos de laços de repetição: <h/6> 
+
+<h7> While: Executa um bloco de código enquanto uma condição for verdadeira. <h/7>
+
+<h8> Do-while: Executa um bloco de código enquanto uma condição for verdadeira, garantindo que o código seja executado pelo menos uma vez. <h/8>
+
+<h9> For: Testa e incrementa uma variável contadora a cada iteração. <h/9>
+
+<h10> Foreach: Realiza iterações sobre coleções. <h/10>
+
+</html>
